@@ -57,5 +57,5 @@ set undodir=$dir
 set clipboard="unnamedplus"
 
 set nocompatible
-set path=.,**
+set path=**
 set wildmenu
