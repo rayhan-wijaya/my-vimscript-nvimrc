@@ -6,7 +6,6 @@ set softtabstop=4
 set shiftwidth=4
 set smartindent
 
-autocmd FileType go setl noexpandtab
 autocmd FileType netrw setl bufhidden=delete
 
 set nowrap
