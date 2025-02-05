@@ -4,7 +4,6 @@ set cc=80
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
-set expandtab
 set smartindent
 
 autocmd FileType go setl noexpandtab
